@@ -98,7 +98,7 @@ All inference is local. No data leaves the network.
 
 ## Infrastructure
 
-Runs on a self-hosted Intel i5 / 16GB RAM server on Ubuntu, accessible remotely via Tailscale. No GPU required — the pipeline is designed around CPU-friendly models that produce strong results at modest hardware requirements.
+Runs on a self-hosted server, accessible remotely via Tailscale. No GPU required — the pipeline is designed around CPU-friendly models that produce strong results at modest hardware requirements.
 
 ---
 
