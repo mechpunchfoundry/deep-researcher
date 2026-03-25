@@ -110,4 +110,4 @@ This project grew out of automation and tooling work done managing large-scale g
 
 ## Status
 
-Actively developed. Currently refactoring from a monolithic 111-node workflow into the modular sub-workflow architecture described above.# deep-researcher
+Actively developed. The modular sub-workflow architecture described above is complete. Currently working on migrating all database operations to PostgreSQL and redesigning the producer flow to automate research and engineering task dispatch.
